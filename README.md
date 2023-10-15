@@ -20,7 +20,7 @@ Fluent Design is an evolution of Microsoft's design language, aimed at creating 
 
 ## 💻 App List 📂
 
-- [Files](ms-windows-store://pdp/?ProductId=9nghp3dx8hdx&cid=FilesWebsite)
+- [Files](https://files.community/download)
 - [DevToys](https://www.microsoft.com/store/apps/9PGCV4V3BK4W)
 
 ----
