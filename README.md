@@ -1,4 +1,5 @@
-![fluent-logo-metadata-removebg-preview](https://github.com/metloub/fluentdesign/assets/136902300/f41b8367-6bb8-43d4-bec6-f096bcfba050)
+![fluent-logo-metadata__1_-removebg](https://github.com/metloub/fluentdesign/assets/136902300/c2ab7719-c491-4a5a-b655-8d26d9e305e0)
+
 
 # Fluent Design App List
 Welcome to the Fluent Design 2 Supported Apps Repository! Here, we gather and display apps that have embraced Fluent Design 2, a modern design style by Microsoft. Fluent Design 2 focuses on smooth movements, a sense of depth, and easy-to-use features to make apps enjoyable on different devices and platforms.
